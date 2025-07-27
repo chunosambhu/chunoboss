@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ChunoBoss</title>
+</head>
+<body>
+  <h1>Yeh Cheez Jyada Jitega Ya Woh? Vote Karo!</h1>
+  <form>
+    <input type="radio" name="vote" value="1"> Option 1<br>
+    <input type="radio" name="vote" value="2"> Option 2<br>
+    <button type="submit">Vote</button>
+  </form>
+</body>
+</html>
